@@ -48,3 +48,9 @@ Profit Margin = DIVIDE([Total Profit], [Total Sales], 0)
 
 **3. Темп росту продажів (Sales Growth %):**
 Sales Growth % = DIVIDE([Total Sales] - [Sales Last Month], [Sales Last Month], 0)
+
+
+## 📂 Як переглянути проект
+1. Завантажте файл `Nexus_Tech_Sales_Analysis.pbix` з цього репозиторію.
+2. Відкрийте його за допомогою [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
+3. Ви зможете переглянути модель даних, DAX-міри та взаємодіяти з усіма фільтрами.
