@@ -5,7 +5,7 @@ Sales & Profitability Analysis Dashboard — Nexus Tech
 
 # 📊 Nexus-Tech-Sales-Analytics
 *Interactive Power BI Dashboard for Sales and Profitability Analysis*
-
+![Nexus Tech Dashboard](назва_вашого_файлу.jpg)
 ---
 
 ## 🚀 Огляд проекту
