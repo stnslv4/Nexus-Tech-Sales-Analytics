@@ -2,6 +2,7 @@
 Interactive Power BI Dashboard for Sales and Profitability Analysis
 
 Sales & Profitability Analysis Dashboard — Nexus Tech
+
 📌 Огляд проекту
 Цей дашборд створений для комплексного аналізу фінансових показників компанії Nexus Tech. Основна мета — надати бізнесу інструмент для моніторингу ключових метрик (KPI), аналізу динаміки продажів та виявлення найбільш прибуткових сегментів і продуктів.
 
